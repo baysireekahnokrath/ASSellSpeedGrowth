@@ -14,3 +14,4 @@ Project ใหม่ · ทำงานกับสินค้าเก่า
 | วันที่ | เรื่อง |
 |---|---|
 | 2026-10-30 | ตั้ง repo และผูกโฟลเดอร์ Drive · โฟลเดอร์ยังว่าง รอไฟล์สินค้าเก่า |
+| 2026-10-30 | กลยุทธ์ลด Credit Term 60 → 30 วัน + จดหมายฉบับที่ 1 → [docs/credit-term-negotiation.md](docs/credit-term-negotiation.md) |
