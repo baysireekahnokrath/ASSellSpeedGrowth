@@ -16,3 +16,4 @@ Project ใหม่ · ทำงานกับสินค้าเก่า
 | 2026-10-30 | ตั้ง repo และผูกโฟลเดอร์ Drive · โฟลเดอร์ยังว่าง รอไฟล์สินค้าเก่า |
 | 2026-10-30 | กลยุทธ์ลด Credit Term 60 → 30 วัน + จดหมายฉบับที่ 1 → [docs/credit-term-negotiation.md](docs/credit-term-negotiation.md) |
 | 2026-10-30 | เขียนแผนใหม่ทั้งฉบับจากวงจรเงินจริง: วางบิลตามรอบส่ง + term 30 วัน (ได้คืน ~420,000 บาท) → [docs/credit-term-negotiation.md](docs/credit-term-negotiation.md) |
+| 2026-10-30 | วิเคราะห์ต้นทุน กำไร ยอดรับเงิน 2026 · กลยุทธ์ทางรอด → [docs/survival-strategy.md](docs/survival-strategy.md) · ปรับแผน credit term ตามรอบจ่ายวันที่ 25 |
